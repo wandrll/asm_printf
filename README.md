@@ -16,4 +16,10 @@ It is an educational project for the second term of MIPT
 ```
 3. Link descriptor.o and printf.o with your programm
 
-
+## Supported formats
+1. %d - 32-bit decimal signed integer numbers
+2. %c - char
+3. %s - string
+4. %b - 32-bit binary number
+5. %o - 32-bit octal number
+6. %x - 32-bit hexadecimal number
